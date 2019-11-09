@@ -1,0 +1,2 @@
+[PROPERTIES]
+currency_file_csv = file.csv
